@@ -7,16 +7,16 @@ A simple Flutter app to manage contacts. Users can add contacts (name and phone 
 ## Features
 
 - **Add Name and Contact:** Users can add a contact by entering a name and a phone number.
-  ![Add Name and Contact](assets/homeEmptyScreen.jpg)
+  ![Add Name and Contact](assets/home.jpg)
 
 - **Long-Press to Delete:** Long pressing a contact in the list prompts the app to show a confirmation dialog for deletion.
-  ![Long Press to Delete](assets/afterAddingContact.jpg)
+  ![Long Press to Delete](assets/afterDelete.jpg)
 
 - **Warning for Empty Fields:** If the user tries to submit the form with an empty name or phone number, a warning message appears at the bottom using `ScaffoldMessenger`.
-  ![Empty Field Warning](assets/DeleteConfirmation.jpg)
+  ![Empty Field Warning](assets/afteraddingcontact.jpg)
 
 - **Alert Dialog for Deletion Confirmation:** When deleting a contact, an alert dialog confirms the deletion.
-  ![Delete Confirmation Dialog](assets/afterDelete.jpg)
+  ![Delete Confirmation Dialog](assets/deleteConfirmationDialogue.jpg)
 
 ---
 
