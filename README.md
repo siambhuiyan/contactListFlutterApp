@@ -32,4 +32,4 @@ A simple Flutter app to manage contacts. Users can add contacts (name and phone 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/contactListFlutterApp.git
+git clone https://github.com/siambhuiyan/contactListFlutterApp.git
