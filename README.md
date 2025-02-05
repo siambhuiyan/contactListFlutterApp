@@ -6,8 +6,9 @@ A simple Flutter app to manage contacts. Users can add contacts (name and phone 
 
 ## Features
 
-- **Add Name and Contact:** Users can add a contact by entering a name and a phone number.
-  ![Add Name and Contact](assets/home.jpg)
+- **Add Name and Contact:**Users can add a contact by entering a name and a phone number.
+       ![Add Name and Contact](assets/home.jpg)
+
 
 - **Long-Press to Delete:** Long pressing a contact in the list prompts the app to show a confirmation dialog for deletion.
   ![Long Press to Delete](assets/afterDelete.jpg)
